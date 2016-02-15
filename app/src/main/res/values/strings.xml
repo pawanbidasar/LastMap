@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LastMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">54086715854</string>
+    <string name="title_activity_main">JaipurOnMap</string>
+    <string name="title_activity_notification_open">NotificationOpen</string>
+</resources>
